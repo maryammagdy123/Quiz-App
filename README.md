@@ -33,4 +33,7 @@ Simply open the `index.html` file in any modern web browser (e.g., Chrome, Firef
 Quiz questions are provided by the [Open Trivia DB](https://opentdb.com/), a free to use, user-contributed trivia question database.
 
 ## Contact
-For more projects and updates, visit my GitHub: [https://github.com/maryammagdy123/Quiz-App](https://github.com/maryammagdy123/Quiz-App)
+For more projects and updates, visit my GitHub: [https://github.com/maryammagdy123](https://github.com/maryammagdy123)
+
+## Repository
+The source code for this project is available at: [https://github.com/maryammagdy123/Quiz-App](https://github.com/maryammagdy123/Quiz-App)
